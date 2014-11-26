@@ -2,7 +2,7 @@ var form, input, grid;
 
 form = document.getElementById("image-form");
 input = document.getElementById("image-url");
-grid = document.getElementById("grid");
+grid = document.getElementById("image-grid");
 
 var getImage = function(){
 	var container, img, remove;
