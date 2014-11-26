@@ -4,6 +4,7 @@ form = document.getElementById("image-form");
 input = document.getElementById("image-url");
 grid = document.getElementById("image-grid");
 
+
 var getImage = function(){
 	var container, img, remove;
 	event.preventDefault();
