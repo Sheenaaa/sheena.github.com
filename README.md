@@ -1,3 +1,3 @@
-email-template
+Master branch
 ==============
-A generic email template made up of tables, divs and in-line CSS.
+Contains HTML, CSS and JS projects
